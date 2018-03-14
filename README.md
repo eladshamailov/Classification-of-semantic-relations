@@ -2,7 +2,7 @@
 implementation of a research paper using map-reduce pattern, machine learning tools and experiments on a large-scale input
 
 ## introduction
-implementation of the paper of Dmitry Davidov and Ari Rappoport * [Classification of Semantic Relationships between Nominals Using Pattern Clusters](http://www.cs.huji.ac.il/~arir/nominals.pdf).
+implementation of the paper of Dmitry Davidov and Ari Rappoport [Classification of Semantic Relationships between Nominals Using Pattern Clusters](http://www.cs.huji.ac.il/~arir/nominals.pdf).
 
 ## Implementation notes
 For classification, we used WEKA software.
