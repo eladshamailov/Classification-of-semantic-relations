@@ -21,4 +21,4 @@ The evaluation in the paper is task 4 of SemEval-07 - identification of 6 semant
  *RANDOM: the two nouns are not semantically related.
 
 ## Reports
-The reports can be found on 
+The reports can be found on https://github.com/eladshamailov/Classification-of-semantic-relations/blob/master/Reports.pdf
